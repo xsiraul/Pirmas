@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-abfea99f6ab79d19f3452232c554ebd8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/cordova-2.8.0-474172095c8cbfc79ea94328ee27816a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
